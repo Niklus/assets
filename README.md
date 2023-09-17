@@ -1,2 +1,2 @@
-# json
-Json files for testing
+# Assets
+Static files for testing
